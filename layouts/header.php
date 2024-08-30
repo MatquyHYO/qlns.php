@@ -15,8 +15,8 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="shortcut icon" href="../dist/images/logo.png" type="image/x-icon"/>
-  <title>ĐỀ TÀI THỰC TẬP CHUYÊN NGÀNH | QUẢN LÝ NHÂN SỰ</title>
+  <link rel="shortcut icon" href="../dist/images/logo4.png" type="image/x-icon"/>
+  <title>QUẢN LÝ NHÂN SỰ</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->

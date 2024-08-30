@@ -5,9 +5,9 @@
     <!-- Logo -->
     <a href="index.php?p=index&a=statistic" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><img src="../dist/images/logo.png" alt=""></span>
+      <span class="logo-mini"><img src="../dist/images/logo4.png" alt=""></span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><img src="../dist/images/logo.png" alt=""></span>
+      <span class="logo-lg"><img src="../dist/images/logo4.png" alt=""></span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">

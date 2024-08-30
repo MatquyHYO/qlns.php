@@ -28,7 +28,7 @@ if(isset($_SESSION['username']) && isset($_SESSION['level']))
 	$rowPB = mysqli_fetch_array($resultPB);
 	$tongPB = $rowPB['soluong'];
 
-	// dem so phong ban
+	// dem sot tai khoan
 	$tk = "SELECT count(id) as soluong FROM tai_khoan";
 	$resultTK = mysqli_query($conn, $tk);
 	$rowTK = mysqli_fetch_array($resultTK);
@@ -72,7 +72,7 @@ if(isset($_SESSION['username']) && isset($_SESSION['level']))
 	    <section class="content-header">
 	      <h1>
 	        Tổng quan
-	        <small>Đề tài thực tập | Quản lý nhân sự tại CÔNG TY CỔ PHẦN DẦU CÁ CHÂU Á</small>
+	        <small>Quản lý nhân sự</small>
 	      </h1>
 	      <ol class="breadcrumb">
 	        <li><a href="index.php?p=index&a=statistic"><i class="fa fa-dashboard"></i> Tổng quan</a></li>

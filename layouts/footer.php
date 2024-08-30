@@ -2,9 +2,9 @@
   <!-- /.content-wrapper -->
   <footer class="main-footer">
     <div class="pull-right hidden-xs">
-      <b>@Copy right</b> Nguyễn Tấn Dương
+      <b>@Copy right</b>Bùi Phương Huy
     </div>
-    <strong>Đề tài thực tập chuyên ngành: Quản lý nhân sự.</strong>
+    <strong>Quản lý nhân sự</strong>
   </footer>
   <!-- Control Sidebar -->
   <aside class="control-sidebar control-sidebar-dark" style="display: none;">
